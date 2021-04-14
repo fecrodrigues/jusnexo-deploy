@@ -4,6 +4,7 @@
   "description": "Website Jusnexo Startup One",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/fecrodrigues/jusnexo-deploy/issues"
   },
-  "homepage": "https://github.com/fecrodrigues/jusnexo-deploy#readme",
+  "homepage": "https://jusnexo.com.br",
   "dependencies": {
     "express": "^4.17.1"
   }
