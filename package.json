@@ -1,0 +1,22 @@
+{
+  "name": "jusnexo",
+  "version": "1.0.0",
+  "description": "Website Jusnexo Startup One",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fecrodrigues/jusnexo-deploy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fecrodrigues/jusnexo-deploy/issues"
+  },
+  "homepage": "https://github.com/fecrodrigues/jusnexo-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

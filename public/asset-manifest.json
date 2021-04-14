@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1a9a4d9.chunk.css",
+    "main.js": "/static/js/main.d39b4e0a.chunk.js",
+    "main.js.map": "/static/js/main.d39b4e0a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6134aeef.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6134aeef.js.map",
+    "static/js/2.bdc638f9.chunk.js": "/static/js/2.bdc638f9.chunk.js",
+    "static/js/2.bdc638f9.chunk.js.map": "/static/js/2.bdc638f9.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.e1a9a4d9.chunk.css.map": "/static/css/main.e1a9a4d9.chunk.css.map",
+    "static/js/2.bdc638f9.chunk.js.LICENSE.txt": "/static/js/2.bdc638f9.chunk.js.LICENSE.txt",
+    "static/media/avatar-blank.79bfd233.png": "/static/media/avatar-blank.79bfd233.png",
+    "static/media/avatar.e3cd3b0f.png": "/static/media/avatar.e3cd3b0f.png",
+    "static/media/cover.a1e663e5.png": "/static/media/cover.a1e663e5.png",
+    "static/media/featured-chat.352e6daf.png": "/static/media/featured-chat.352e6daf.png",
+    "static/media/hero-background.7ac3c225.png": "/static/media/hero-background.7ac3c225.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6134aeef.js",
+    "static/js/2.bdc638f9.chunk.js",
+    "static/css/main.e1a9a4d9.chunk.css",
+    "static/js/main.d39b4e0a.chunk.js"
+  ]
+}
