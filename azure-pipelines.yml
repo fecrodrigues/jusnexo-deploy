@@ -12,7 +12,7 @@ variables:
   azureSubscription: '3393a0d0-193e-4dcb-9772-c6f0a29c7ce3'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'jusnexo-cloud'
 
   # Environment name
   environmentName: 'jusnexo-cloud'
